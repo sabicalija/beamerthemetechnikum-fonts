@@ -9,11 +9,13 @@ The base theme ships with Noto Sans, Serif, Sans Mono, and Sans Math (Latin/Cyri
 | Directory | Script | Source |
 |-----------|--------|--------|
 | `arabic/` | Arabic | [notofonts/arabic](https://github.com/notofonts/arabic) |
-| `hebrew/` | Hebrew | [notofonts/hebrew](https://github.com/notofonts/hebrew) |
-| `devanagari/` | Devanagari (Hindi, Sanskrit, …) | [notofonts/devanagari](https://github.com/notofonts/devanagari) |
-| `thai/` | Thai | [notofonts/thai](https://github.com/notofonts/thai) |
+| `armenian/` | Armenian | [notofonts/armenian](https://github.com/notofonts/armenian) |
 | `bengali/` | Bengali | [notofonts/bengali](https://github.com/notofonts/bengali) |
+| `devanagari/` | Devanagari (Hindi, Sanskrit, …) | [notofonts/devanagari](https://github.com/notofonts/devanagari) |
+| `georgian/` | Georgian | [notofonts/georgian](https://github.com/notofonts/georgian) |
+| `hebrew/` | Hebrew | [notofonts/hebrew](https://github.com/notofonts/hebrew) |
 | `tamil/` | Tamil | [notofonts/tamil](https://github.com/notofonts/tamil) |
+| `thai/` | Thai | [notofonts/thai](https://github.com/notofonts/thai) |
 | `cjk/jp/` | Japanese | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) |
 | `cjk/kr/` | Korean | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) |
 | `cjk/sc/` | Simplified Chinese | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) |
