@@ -9,6 +9,7 @@ The base theme ships with Noto Sans, Serif, Sans Mono, and Sans Math (Latin/Cyri
 | Directory | Script | Source |
 |-----------|--------|--------|
 | `arabic/` | Arabic | [notofonts/arabic](https://github.com/notofonts/arabic) |
+| `urdu/` | Urdu (Nastaliq) | [notofonts/nastaliq](https://github.com/notofonts/nastaliq) |
 | `armenian/` | Armenian | [notofonts/armenian](https://github.com/notofonts/armenian) |
 | `bengali/` | Bengali | [notofonts/bengali](https://github.com/notofonts/bengali) |
 | `devanagari/` | Devanagari (Hindi, Sanskrit, …) | [notofonts/devanagari](https://github.com/notofonts/devanagari) |
